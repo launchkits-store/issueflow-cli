@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "title": "Fix JWT token expiration bug",
+    "status": "open",
+    "createdAt": "2026-10-01T12:15:18.419Z"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "issueflow-cli",
+  "version": "1.0.0",
+  "description": "Zero-config local issue tracker CLI",
+  "main": "index.js",
+  "bin": {
+    "issueflow": "./index.js"
+  },
+  "license": "MIT"
+}
